@@ -9,7 +9,7 @@
 ###
 
 
-🚀 **Frontend Developer** | 🌱 **Aspiring Backend Engineer**  
+### 🚀 **Frontend Developer** | 🌱 **Aspiring Backend Engineer**  
 I’m passionate about crafting sleek, responsive web interfaces and currently diving deeper into backend development to become a full-stack problem solver.
 
 
@@ -46,6 +46,10 @@ Let’s build something cool together!
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40" alt="go logo" />
   <img width="12" /> 
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40" alt="go logo" />
+  <img width="12" /> 
+          
 
 </div>
 
