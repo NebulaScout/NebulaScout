@@ -1,12 +1,12 @@
 <!-- Header Section with Professional Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Backend%20Developer&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Building%20Scalable%20Backends%20|%20Shipping%20Reliable%20APIs&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Software%20Developer&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Building%20Scalable%20Systems%20|%20Shipping%20Quality%20Code&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
 <!-- Animated Typing Introduction -->
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=2E96FF&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Richard+Kabi;Backend+Developer+%7C+Python+%26+Django;API+Builder+%7C+Database+Enthusiast;Turning+coffee+into+clean+code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=2E96FF&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Richard+Kabi;Backend+Developer+%7C+Python+%26+Django;Frontend+Developer+%7C+React;Full-Stack+Problem+Solver;Turning+coffee+into+clean+code" alt="Typing SVG" />
   </h1>
 </div>
 
@@ -20,9 +20,9 @@
       <td align="left">
         <h3>👨‍💻 About Me</h3>
         <p>
-          <strong>Backend Developer</strong> specializing in secure, scalable APIs with Django & Django REST Framework
+          <strong>Software Developer</strong> with growing expertise in both backend (Python & Django) and frontend development (React)
           <br><br>
-          I build production-ready backend systems with clean architecture, reliable databases, and performance in mind.
+          I build production-ready systems with clean architecture, reliable databases, and intuitive user interfaces.
           <br><br>
           💡 <em>Focused on writing code that's maintainable, testable, and actually ships.</em>
         </p>
@@ -86,7 +86,7 @@
 
 <p><strong>MySQL</strong> • <strong>PostgreSQL</strong> • <strong>Database Modeling</strong> • <strong>Query Optimization</strong></p>
 
-### 🌐 Frontend <em>(working knowledge)</em>
+### 🌐 Frontend Technologies
 <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" alt="Frontend Tech" />
 
 <p><strong>React</strong> • <strong>JavaScript</strong> • <strong>HTML/CSS</strong> • <strong>TailwindCSS</strong></p>
@@ -109,9 +109,9 @@
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/🔨-Building-FF6B6B?style=for-the-badge"/>
         <br><br>
-        <strong>Secure Backend Systems</strong>
+        <strong>Full-Stack Projects</strong>
         <br>
-        <em>Clean architecture & best practices</em>
+        <em>Clean architecture & responsive UIs</em>
       </td>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/📚-Learning-4ECDC4?style=for-the-badge"/>
@@ -125,7 +125,7 @@
         <br><br>
         <strong>Opportunities</strong>
         <br>
-        <em>Backend internships & collaborations</em>
+        <em>Developer roles & collaborations</em>
       </td>
     </tr>
   </table>
@@ -162,8 +162,8 @@
 
 <div align="center">
   <p>
-    <strong>💼 Open to opportunities:</strong> Backend (Django/DRF) roles, internships, and open-source contributions<br>
-    <strong>💡 Always happy to talk about:</strong> API design, databases, system design, and building things that actually ship
+    <strong>💼 Open to opportunities:</strong> Backend, Frontend, or Full-Stack roles • Internships • Open-source contributions<br>
+    <strong>💡 Always happy to talk about:</strong> API design, databases, system design, UI/UX, and building things that actually ship
   </p>
   
   <br>
@@ -190,11 +190,7 @@
   
   <br>
   
-  <p>
-    📧 <strong>kabirichard27@gmail.com</strong><br>
-    💼 <a href="https://linkedin.com/in/richard-kabi"><strong>linkedin.com/in/richard-kabi</strong></a><br>
-    🐦 <a href="https://x.com/kabi__r"><strong>@kabi__r</strong></a>
-  </p>
+
 </div>
 
 ---
@@ -209,7 +205,7 @@
     <img src="https://img.shields.io/badge/Made%20with-❤️%20and%20☕-FF6B6B?style=flat-square" alt="Made with Love and Coffee" />
   </p>
   
-  <h3>⭐ Open togigs and project collaboration ⭐</h3>
+  <h3>⭐ Open to developer roles and collaboration opportunities ⭐</h3>
   
   <p><em>"Building tomorrow's solutions, one commit at a time"</em></p>
 </div>
